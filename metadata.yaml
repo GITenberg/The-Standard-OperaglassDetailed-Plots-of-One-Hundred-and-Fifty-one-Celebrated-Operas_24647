@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32946'
     url: http://www.gutenberg.org/2009/agents/32946
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24647#The-Standard-OperaglassDetailed-Plots-of-One-Hundred-and-Fifty-one-Celebrated-Operas
 gutenberg_bookshelf: Opera
 gutenberg_issued: '2009-01-14'
 gutenberg_type: Text
